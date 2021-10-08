@@ -6,7 +6,7 @@
 Config = {}
 
 Config = {
-    commandName = "delallveh",
+    commandName = "dvall",
     -- This is the command that you will type into chat to execute the script.
 
     restricCommand = true
